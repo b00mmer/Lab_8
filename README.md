@@ -75,7 +75,7 @@ ViPNet EDI Soap Gate 3 предназначен для осуществлени�
 
 ![alt-текст][HSM]
 
-[HSM]:https://github.com/b00mmer/Lab_7/blob/main/edi_scheme_new2.png "HSM"
+[HSM]:https://github.com/b00mmer/Lab_7/blob/main/HSM.jpg "HSM"
 
 
 Сценарии использования  
