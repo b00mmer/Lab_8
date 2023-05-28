@@ -61,7 +61,7 @@
 [L8-6G]:https://github.com/b00mmer/Lab_8/blob/main/Cli.JPG "cli.jpg"
 
 
-##  Возможности
+
 
 
 
