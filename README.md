@@ -28,7 +28,7 @@
 
 ![alt-текст][L8-3G]
 
-[L8-3G]:https://github.com/b00mmer/Lab_8/blob/main/DH_3_1.JPG "DH_3_1.jpg"
+[L8-3G]:https://github.com/b00mmer/Lab_8/blob/main/DH_3_1.jpg "DH_3_1.jpg"
 
 
 
