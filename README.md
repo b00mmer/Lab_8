@@ -53,7 +53,7 @@
  
 ![alt-текст][L8-5G]
 
-[L8-5G]:https://github.com/b00mmer/Lab_8/blob/main/srv.JPG "srv.jpg"
+[L8-5G]:https://github.com/b00mmer/Lab_8/blob/main/Svr.JPG "srv.jpg"
 
 
 ![alt-текст][L8-6G]
